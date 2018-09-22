@@ -10,10 +10,10 @@ From this Dataset, Students will develop & Learn-
 5. Accuracy In Model Formation
 6. Result through Training & Testing the Data
 7. Machine Learning Algorithm Implementation
+
 Here are many of the links mentioned so far:
 This Links are taken from Quora(https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 Cross-disciplinary data repositories, data collections and data search engines:
-
 1. http://datasource.kapsarc.org
 2. https://www.kaggle.com/datasets
 3. http://www.assetmacro.com
