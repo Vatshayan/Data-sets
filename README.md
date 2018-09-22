@@ -14,16 +14,16 @@ Here are many of the links mentioned so far:
 This Links are taken from Quora(https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 Cross-disciplinary data repositories, data collections and data search engines:
 
-http://datasource.kapsarc.org
-https://www.kaggle.com/datasets
-http://www.assetmacro.com
-http://usgovxml.com
-http://aws.amazon.com/datasets
-http://databib.org
-http://datacite.org
-http://figshare.com
-http://linkeddata.org
-http://reddit.com/r/datasets
+1.http://datasource.kapsarc.org
+2.https://www.kaggle.com/datasets
+3.http://www.assetmacro.com
+4.http://usgovxml.com
+5.http://aws.amazon.com/datasets
+6.http://databib.org
+7.http://datacite.org
+8.http://figshare.com
+9.http://linkeddata.org
+10.http://reddit.com/r/datasets
 http://thewebminer.com/
 http://thedatahub.org alias http://ckan.net
 http://quandl.com
