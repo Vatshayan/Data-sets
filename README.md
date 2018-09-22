@@ -14,92 +14,13 @@ Here are many of the links mentioned so far:
 This Links are taken from Quora(https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 Cross-disciplinary data repositories, data collections and data search engines:
 
-1.http://datasource.kapsarc.org
-2.https://www.kaggle.com/datasets
-3.http://www.assetmacro.com
-4.http://usgovxml.com
-5.http://aws.amazon.com/datasets
-6.http://databib.org
-7.http://datacite.org
-8.http://figshare.com
-9.http://linkeddata.org
-10.http://reddit.com/r/datasets
-http://thewebminer.com/
-http://thedatahub.org alias http://ckan.net
-http://quandl.com
-Social Network Analysis Interactive Dataset Library (Social Network Datasets)
-Datasets for Data Mining
-Enigma Public
-http://www.ufindthem.com/
-http://NetworkRepository.com - The First Interactive Network Data Repository
-http://MLvis.com
-Open Data Inception - A Comprehensive List of 2500+ Open Data Portals in the World
-http://data.opendatasoft.com OpenDataSoft catalog
-Single datasets and data repositories
-
-http://archive.ics.uci.edu/ml/
-http://crawdad.org/
-http://data.austintexas.gov
-http://data.cityofchicago.org
-http://data.govloop.com
-http://data.gov.uk/
-data.gov.in
-http://data.medicare.gov
-http://data.seattle.gov
-http://data.sfgov.org
-http://data.sunlightlabs.com
-https://datamarket.azure.com/
-http://developer.yahoo.com/geo/g...
-http://econ.worldbank.org/datasets
-http://en.wikipedia.org/wiki/Wik...
-http://factfinder.census.gov/ser...
-http://ftp.ncbi.nih.gov/
-http://gettingpastgo.socrata.com
-http://googleresearch.blogspot.c...
-http://books.google.com/ngrams/
-http://medihal.archives-ouvertes.fr
-http://public.resource.org/
-http://rechercheisidore.fr
-http://snap.stanford.edu/data/in...
-http://timetric.com/public-data/
-https://wist.echo.nasa.gov/~wist...
-http://www2.jpl.nasa.gov/srtm
-http://www.archives.gov/research...
-http://www.bls.gov/
-http://www.crunchbase.com/
-http://www.dartmouthatlas.org/
-http://www.data.gov/
-http://www.datakc.org
-http://dbpedia.org
-http://www.delicious.com/jbaldwi...
-http://www.faa.gov/data_research/
-http://www.factual.com/
-http://research.stlouisfed.org/f...
-http://www.freebase.com/
-http://www.google.com/publicdata...
-http://www.guardian.co.uk/news/d...
-http://www.infochimps.com
-http://www.kaggle.com/
-http://build.kiva.org/
-http://www.nationalarchives.gov....
-http://www.nyc.gov/html/datamine...
-http://www.ordnancesurvey.co.uk/...
-http://www.philwhln.com/how-to-g...
-http://www.imdb.com/interfaces
-http://imat-relpred.yandex.ru/en...
-http://www.dados.gov.pt/pt/catal...
-http://knoema.com
-http://daten.berlin.de/
-http://www.qunb.com
-http://databib.org/
-http://datacite.org/
-http://data.reegle.info/
-http://data.wien.gv.at/
-http://data.gov.bc.ca
-https://pslcdatashop.web.cmu.edu/ (interaction data in learning environments)
-http://www.icpsr.umich.edu/icpsrweb/CPES/ - Collaborative Psychiatric Epidemiology Surveys: (A collection of three national surveys focused on each of the major ethnic groups to study psychiatric illnesses and health services use)
-http://www.dati.gov.it
-http://dati.trentino.it
-http://www.databagg.com/
-http://networkrepository.com - Network/ML data repository w/ visual interactive analytics
-Home (United Nations Environment Programme Grid Genava a lot of GIS datasets
+1. http://datasource.kapsarc.org
+2. https://www.kaggle.com/datasets
+3. http://www.assetmacro.com
+4. http://usgovxml.com
+5. http://aws.amazon.com/datasets
+6. http://databib.org
+7. http://datacite.org
+8. http://figshare.com
+9. http://linkeddata.org
+10. http://reddit.com/r/datasets
