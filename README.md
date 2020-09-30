@@ -27,6 +27,6 @@ Cross-disciplinary data repositories, data collections and data search engines:
 
 Most Important all the datasets are in CSV ( Comma separated values) format.  
 
-## Mail me (vatshayan007@gmail.com) for Any kind of Datasets you want to develop or you think !! 
+## Mail me (vatshayan007@gmail.com) for Any kind of Datasets in world you want to for yourself, organisation, develop or you think !! 
 ### Mail me For Data Visulization, Retrival, Transformation, Translation and Analysis !!!
 
