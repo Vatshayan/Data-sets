@@ -29,5 +29,9 @@ Most Important all the datasets are in CSV ( Comma separated values) format.
 *******************************************************************************************************************************************************
 ## Mail me (vatshayan007@gmail.com) for Any kind of Datasets in world you want to for yourself, organisation, develop or you think !! 
 ### Mail me For Data Development, Visulization, Retrival, Transformation, Translation and Analysis !!!
-#### Feel free to mail me for you work on Data sceince, ML and Big Data (Would love and contribute something)
+#### Feel free to mail me for your work on Data sceince, ML and Big Data (Would love and contribute something)
+
+I will be very happy to help you.
+
+Mail me freely, your one mail can help and reduce your stress over work.
 Let's Learn, Work and Grow Together !
